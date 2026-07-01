@@ -80,9 +80,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar811311&theme=tokyo-night&hide_border=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar811311&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true" />
 </p>
 
 ---
