@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ram Kumar</h1>
 
 <h3 align="center">
-A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthusiast 🚀
+💻 Computer Science Student | 🚀 MERN Stack Developer | ☕ Java Developer | 📚 DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;MERN+Stack+Developer;Java+Developer;Data+Structures+%26+Algorithms;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=58A6FF&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, Java, and System Design**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, DSA, React, MERN Stack, Git & GitHub**
-- 📫 Reach me at **ramkumar070406@gmail.com**
-- ⚡ Fun Fact: **I enjoy solving coding problems and building real-world applications.**
+- 🎓 Computer Science Student from **India 🇮🇳**
+- 🌱 Currently learning **React.js, Node.js, Express.js, MongoDB & System Design**
+- 🔭 Working on **Full Stack MERN Projects**
+- 💡 Passionate about **Problem Solving & Data Structures**
+- 👨‍💻 Ask me about **Java, DSA, React, MERN Stack & Git**
+- 📫 Email: **ramkumar070406@gmail.com**
+- ⚡ Fun Fact: **I love solving coding problems and building real-world projects.**
 
 ---
 
@@ -30,11 +31,15 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 </a>
 
 <a href="https://linkedin.com/in/ram-kumar-81bb07360">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/__.ram.07">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -45,7 +50,7 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,redux,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,html,css,react,redux,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind,vite,postman&perline=10"/>
 
 </p>
 
@@ -53,27 +58,26 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 
 # 🚀 Currently Working On
 
-- 💻 MERN Stack Projects
-- 📚 Solving LeetCode Daily
-- 🧠 Learning System Design
-- 🌱 Open Source Contributions
+- 💻 MERN Stack Development
+- 📚 Solving DSA Problems Daily
+- 🌱 Learning System Design
+- 🤝 Open Source Contributions
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramkumar811311&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar811311&layout=compact&langs_count=8&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ramkumar811311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar811311&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ramkumar811311&theme=tokyonight"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Ramkumar811311&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -83,7 +87,7 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar811311&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar811311&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -93,7 +97,29 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ramkumar811311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
+
+> **Note:** If the trophy section doesn't display, it's because the external trophy service is temporarily unavailable—not because of your README.
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
 
 </p>
 
@@ -109,7 +135,7 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repository
 
 <p align="center">
 
@@ -119,9 +145,11 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ramkumar811311&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Ramkumar811311&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </p>
 
@@ -130,3 +158,7 @@ A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthus
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
+
+<p align="center">
+<i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
