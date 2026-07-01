@@ -1,16 +1,18 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Ram Kumar
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+**A passionate Computer Science Student || MERN Stack Developer || Java & DSA Enthusiast from India 🇮🇳**
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📧 **Email Me 👉** *[your-email@example.com](ramkumar070406@gmail.com)* for collaboration, projects, or any tech discussions. 😊
+
+* 🔭 **I’m currently working on:** MERN Stack projects and improving my Data Structures & Algorithms skills.
+* 🌱 **I’m currently learning:** React.js, Node.js, Express.js, MongoDB, and Java.
+* 👯 **I’m looking to collaborate on:** Open Source Projects, MERN Stack Applications, and DSA-related projects.
+* 🤔 **I’m looking for help with:** Backend development, scalable web applications, and placement preparation.
+* 💬 **Ask me about:** Java, DSA, React, MERN Stack, Git & GitHub.
+* 📫 **How to reach me:** *[your-email@example.com](ramkumar070406@gmail.com)*
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I enjoy solving coding problems and building real-world web applications.
+
 - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.ram.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-kumar-81bb07360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramkumar070406@gmail.com) 
