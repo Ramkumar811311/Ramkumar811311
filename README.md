@@ -149,12 +149,6 @@
 </p>
 
 ---
-
-# 📈 GitHub Metrics
-
-<p align="center">
-<img src="https://metrics.lecoq.io/Ramkumar811311?template=classic&isocalendar=1&languages=1&followup=1&activity=1&base=header%2Cactivity" />
-</p>
 ---
 
 # 👀 Profile Views
