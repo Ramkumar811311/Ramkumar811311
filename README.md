@@ -150,14 +150,11 @@
 
 ---
 
-# 🔝 Top Contributed Repository
+# 📈 GitHub Metrics
 
 <p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Ramkumar811311&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
+<img src="https://metrics.lecoq.io/Ramkumar811311?template=classic&isocalendar=1&languages=1&followup=1&activity=1&base=header%2Cactivity" />
 </p>
-
 ---
 
 # 👀 Profile Views
