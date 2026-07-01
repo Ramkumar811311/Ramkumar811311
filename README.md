@@ -68,12 +68,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramkumar811311&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar811311&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ramkumar811311&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar811311&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Ramkumar811311&theme=github-dark-blue&hide_border=true&border_radius=12" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Ramkumar811311&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
