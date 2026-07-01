@@ -114,13 +114,16 @@
 > **Note:** If the trophy section doesn't display, it's because the external trophy service is temporarily unavailable—not because of your README.
 
 ---
-
-# 💻 LeetCode Stats
+# 💻 LeetCode
 
 <p align="center">
+  <a href="https://leetcode.com/u/iamr_a_m1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/iamr_a_m1?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
