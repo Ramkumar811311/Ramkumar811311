@@ -2,14 +2,14 @@
 
 **A passionate Computer Science Student || MERN Stack Developer || Java & DSA Enthusiast from India 🇮🇳**
 
-📧 **Email Me 👉** *[your-email@example.com](ramkumar070406@gmail.com)* for collaboration, projects, or any tech discussions. 😊
+📧 **Email Me 👉** *[ramkumar070406@gmail.com](ramkumar070406@gmail.com)* for collaboration, projects, or any tech discussions. 😊
 
 * 🔭 **I’m currently working on:** MERN Stack projects and improving my Data Structures & Algorithms skills.
 * 🌱 **I’m currently learning:** React.js, Node.js, Express.js, MongoDB, and Java.
 * 👯 **I’m looking to collaborate on:** Open Source Projects, MERN Stack Applications, and DSA-related projects.
 * 🤔 **I’m looking for help with:** Backend development, scalable web applications, and placement preparation.
 * 💬 **Ask me about:** Java, DSA, React, MERN Stack, Git & GitHub.
-* 📫 **How to reach me:** *[your-email@example.com](ramkumar070406@gmail.com)*
+* 📫 **How to reach me:** *[ramkumar070406@gmail.com](ramkumar070406@gmail.com)*
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I enjoy solving coding problems and building real-world web applications.
 
