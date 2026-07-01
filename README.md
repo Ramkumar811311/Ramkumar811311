@@ -114,16 +114,43 @@
 > **Note:** If the trophy section doesn't display, it's because the external trophy service is temporarily unavailable—not because of your README.
 
 ---
-# 💻 LeetCode
+# 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/iamr_a_m1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+
+<a href="https://leetcode.com/u/iamr_a_m1/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/r477djtf/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
+---
+
+## 🏆 LeetCode Stats
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/iamr_a_m1?theme=dark&font=Nunito&ext=contest" />
+
+<a href="https://leetcode.com/u/iamr_a_m1/" target="_blank">
+<img width="80%" src="https://leetcard.jacoblin.cool/iamr_a_m1?theme=dark&font=Nunito&ext=contest&border=0"/>
+
+</a>
+
+</p>
+
+---
+
+## 🟢 GeeksforGeeks Profile
+
+<p align="center">
+
+<a href="https://www.geeksforgeeks.org/user/r477djtf/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20My-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
 ---
