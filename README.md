@@ -1,48 +1,135 @@
-# 💫 Hi 👋, I'm Ram Kumar
+<h1 align="center">Hi 👋, I'm Ram Kumar</h1>
 
-**A passionate Computer Science Student || MERN Stack Developer || Java & DSA Enthusiast from India 🇮🇳**
+<h3 align="center">
+A Passionate Computer Science Student | MERN Stack Developer | Java & DSA Enthusiast 🚀
+</h3>
 
-📧 **Email Me 👉** *[ramkumar070406@gmail.com](ramkumar070406@gmail.com)* for collaboration, projects, or any tech discussions. 😊
-
-* 🔭 **I’m currently working on:** MERN Stack projects and improving my Data Structures & Algorithms skills.
-* 🌱 **I’m currently learning:** React.js, Node.js, Express.js, MongoDB, and Java.
-* 👯 **I’m looking to collaborate on:** Open Source Projects, MERN Stack Applications, and DSA-related projects.
-* 🤔 **I’m looking for help with:** Backend development, scalable web applications, and placement preparation.
-* 💬 **Ask me about:** Java, DSA, React, MERN Stack, Git & GitHub.
-* 📫 **How to reach me:** *[ramkumar070406@gmail.com](ramkumar070406@gmail.com)*
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I enjoy solving coding problems and building real-world web applications.
-
-* ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramkumar811311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-- 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.ram.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-kumar-81bb07360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramkumar070406@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ramkumar811311&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ramkumar811311&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ramkumar811311&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ramkumar811311&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;MERN+Stack+Developer;Java+Developer;Data+Structures+%26+Algorithms;Open+Source+Enthusiast" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ramkumar811311&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **MERN Stack Projects**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, Java, and System Design**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java, DSA, React, MERN Stack, Git & GitHub**
+- 📫 Reach me at **ramkumar070406@gmail.com**
+- ⚡ Fun Fact: **I enjoy solving coding problems and building real-world applications.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ramkumar070406@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ram-kumar-81bb07360">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/__.ram.07">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,redux,nodejs,express,mongodb,mysql,git,github,vscode,bootstrap,tailwind,vite"/>
+
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+- 💻 MERN Stack Projects
+- 📚 Solving LeetCode Daily
+- 🧠 Learning System Design
+- 🌱 Open Source Contributions
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramkumar811311&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar811311&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ramkumar811311&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkumar811311&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Ramkumar811311&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ramkumar811311&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
