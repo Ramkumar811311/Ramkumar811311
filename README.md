@@ -22,10 +22,10 @@
 
 <!-- Snake Game Repo View -->
 
+## 🐍 Contribution Snake
+
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
