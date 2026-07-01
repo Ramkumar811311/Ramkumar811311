@@ -13,6 +13,9 @@
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I enjoy solving coding problems and building real-world web applications.
 
+* ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ramkumar811311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.ram.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-kumar-81bb07360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramkumar070406@gmail.com) 
@@ -20,7 +23,9 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+![Snake animation](https://raw.githubusercontent.com/Ramkumar811311/Ramkumar811311/output/github-contribution-grid-snake.svg)
+
 </div>
 
 # 💻 Tech Stack:
@@ -30,8 +35,6 @@
 ![](https://streak-stats.demolab.com/?user=Ramkumar811311&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ramkumar811311&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramkumar811311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
